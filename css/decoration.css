@@ -14,7 +14,7 @@ div {
 .banner {
   background: url(/images/smoothie.jpg);
   background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-attachment: fixed;
   min-height: 1200px;
 }
